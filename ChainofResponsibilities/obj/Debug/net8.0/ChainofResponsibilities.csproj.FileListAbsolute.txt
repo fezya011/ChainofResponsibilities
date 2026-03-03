@@ -1,0 +1,14 @@
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/bin/Debug/net8.0/ChainofResponsibilities
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/bin/Debug/net8.0/ChainofResponsibilities.deps.json
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/bin/Debug/net8.0/ChainofResponsibilities.runtimeconfig.json
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/bin/Debug/net8.0/ChainofResponsibilities.dll
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/bin/Debug/net8.0/ChainofResponsibilities.pdb
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.AssemblyInfoInputs.cache
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.AssemblyInfo.cs
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.dll
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/refint/ChainofResponsibilities.dll
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.pdb
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ChainofResponsibilities.genruntimeconfig.cache
+/home/student/RiderProjects/ChainofResponsibilities/ChainofResponsibilities/obj/Debug/net8.0/ref/ChainofResponsibilities.dll
